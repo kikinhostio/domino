@@ -1,6 +1,11 @@
 <pre><?php
 
 /*
+Ya se que es un codigo de mierda, pero a alguien le servira
+
+el codigo sigue la lógica de un mal jugador de dominó venezolano
+
+esta calcular_resultado() y esta calcular_resultado_trancado() fueron c readas por copilot.
 
 este codigo representa el flujo de una partida de domino entre cuatro jugadores.
 
